@@ -1,0 +1,5 @@
+main: me.resources.fishingrewards.FishingRewards
+name: FishingRewards
+version: 1.0
+author: ResourcesMCM
+depend: [WorldEdit, WorldGuard]

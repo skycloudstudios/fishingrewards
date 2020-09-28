@@ -1,0 +1,15 @@
+Settings:
+  regions:
+    - 'pvp'
+  max-rewards: 1
+  world-name: 'world'
+  
+  Items:
+    item-1:
+      command: 'give %player% diamond 1'
+      chance: 10.0
+      permission: 'permission.example'
+    item-2:
+      command: 'give %player% emerald 1'
+      chance: 10.0
+      permission: 'permission.example'
